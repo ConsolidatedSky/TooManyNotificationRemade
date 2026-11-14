@@ -1,0 +1,6 @@
+build/
+.xmake/
+dist/
+.clibdt/
+.clibdt-operation.lock
+.vscode/

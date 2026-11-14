@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "name": "TooManyNotificationRemade",
+  "version": "1.0.0",
+  "author": "ConsolidatedSky",
+  "description": "Deletes the last notification, once you reach the maximum displayable",
+  "libraries": {
+    "clibutil": {
+      "name": "clibutil",
+      "revision": "5f845f38089c7ee92f01c000de420570b8cfee0c",
+      "repository": "https://github.com/powerof3/ClibUtil.git"
+    },
+    "commonlib": {
+      "name": "commonlib",
+      "revision": "94faaed0c60eddd8347767f2d4d29a97c93bde8c",
+      "repository": "https://github.com/alandtse/CommonLibSSE-NG.git",
+      "adapter": "source-v2"
+    },
+    "xbyak": {
+      "name": "xbyak",
+      "revision": "df112862583c2d327c1d9782fd28f53aa675f11d",
+      "repository": "https://github.com/herumi/xbyak.git"
+    }
+  },
+  "created_at": 1794567968
+}
